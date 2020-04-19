@@ -10,7 +10,6 @@ import "./App.css";
 import { onError } from "./libs/errorLib";
 
 
-
 function App() {
   const history = useHistory();
   const [isAuthenticated, userHasAuthenticated] = useState(false);
