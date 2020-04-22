@@ -14,4 +14,5 @@ export default {
     IDENTITY_POOL_ID: "eu-west-2:e2b2dc3b-61ec-49cb-a6a9-df46b6d75e95"
   },
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_qEVnTSWCqh0lWiyJFH7GZc1x",
 };
